@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "immer": "^6.0.1",
+    "immer": "^8.0.1",
     "next": "9.3.2",
     "react": "16.13.0",
     "react-dom": "16.13.0",
